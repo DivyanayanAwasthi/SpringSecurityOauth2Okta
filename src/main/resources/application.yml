@@ -1,0 +1,7 @@
+okta:
+  oauth2:  
+    issuer: https://dev-418520.okta.com/oauth2/default  
+    client-id: 0oaf87nbx2oeNzJEN4x6
+    client-secret: UGvpPnVidG5VmRRXjcqAaA6zdgNDQ6WhM9SiEPlK
+    groups-claim: users
+    scopes: openid,custom
