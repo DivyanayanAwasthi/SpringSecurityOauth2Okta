@@ -1,2 +1,2 @@
 # SpringSecurityOauth2Okta
-Spring Security Implementation with Okat Oauth2 
+Spring Security Implementation with Okta Oauth2 
